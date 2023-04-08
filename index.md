@@ -24,14 +24,17 @@ Or in C you can say:
 ```
 printf("Hello, World!");
 ```
+### What is my favorite Programming Language?
+Here is a code for my [favorite language](HelloWorld.c)
+
+
+
+## About CSE 110
 
 I am really not familiar with github, so I have to search tutorials doing the first lab.
 
 Here is one of the video I searched for how to create a .gitignore:
 [HOW TO USE GITIGNORE](https://www.youtube.com/watch?v=ZmGW45eZOg8&ab_channel=Magnitopic)
-
-### What is my favorite Programming Language?
-Here is a code for my [favorite language](HelloWorld.c)
 
 In CSE 110, I hope I can be able to:
 - [ ] Become a better programmer
