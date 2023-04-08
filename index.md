@@ -11,7 +11,7 @@ Hi, this is Botao Zhang, a second-year transfer student who is majoring in Compu
 - c++ 
 - python.
 
-**AS a person**: ~~I sleep all the time~~ Here what I do in my free time(sort by favorite)
+**AS a person**: ~~I sleep all the time~~ Here what I do in my free time (sort by favorite)：
 1. basketball
 2. video gaming
 3. workouts
