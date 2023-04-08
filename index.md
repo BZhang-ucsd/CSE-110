@@ -34,7 +34,7 @@ Here is one of the video I searched for how to create a .gitignore:
 Here is a code for my [favorite language](HelloWorld.c)
 
 In CSE 110, I hope I can be able to:
-- [] Become a better programmer
-- [] Become a good communicator
-- [] Learn about the process of developing software
-- [] Get familiar with team based software development
+- [ ] Become a better programmer
+- [ ] Become a good communicator
+- [ ] Learn about the process of developing software
+- [ ] Get familiar with team based software development
