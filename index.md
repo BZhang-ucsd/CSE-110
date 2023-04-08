@@ -38,3 +38,15 @@ In CSE 110, I hope I can be able to:
 - [ ] Become a good communicator
 - [ ] Learn about the process of developing software
 - [ ] Get familiar with team based software development
+
+Current Lab Progress:
+- [x] Lab 1 VSCode, Markdown, and Git Part 1
+- [ ] Lab 2
+- [ ] Lab 3
+- [ ] Lab 4
+- [ ] Lab 5
+- [ ] Lab 6
+- [ ] Lab 7
+...........
+
+I will keep it update!
